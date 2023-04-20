@@ -25,4 +25,8 @@ My leetcode practice record
 ## Two pointer
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|15|[153Sum](https://leetcode.com/problems/3sum/) | [C++](solution/15.%203Sum.cpp)| Easy
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [C++](solution/15.%203Sum.cpp)| Easy
+## Sorting
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](solution/56.%20Merge%20Intervals.cpp)| Easy
