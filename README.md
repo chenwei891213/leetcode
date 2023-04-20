@@ -17,16 +17,20 @@ My leetcode practice record
 ## Divide and Conquer
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)(Need to be understood again) | [C++](solution/53.%20Maximum%20Subarray.cpp)| Easy
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)(Need to be understood again) | [C++](solution/53.%20Maximum%20Subarray.cpp)| Medium
 ## Prefix sum
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](solution/238.%20Product%20of%20Array%20Except%20Self.cpp)| Easy
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](solution/238.%20Product%20of%20Array%20Except%20Self.cpp)| Medium
 ## Two pointer
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|15|[3Sum](https://leetcode.com/problems/3sum/) | [C++](solution/15.%203Sum.cpp)| Easy
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [C++](solution/15.%203Sum.cpp)| Medium
 ## Sorting
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](solution/56.%20Merge%20Intervals.cpp)| Easy
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](solution/56.%20Merge%20Intervals.cpp)| Medium
+## Greedy
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](solution/605.%20Can%20Place%20Flowers.cpp)| Easy
