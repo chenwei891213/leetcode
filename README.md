@@ -21,4 +21,8 @@ My leetcode practice record
 ## Prefix sum
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)(Need to be understood again) | [C++](solution/238.%20Product%20of%20Array%20Except%20Self.cpp)| Easy
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](solution/238.%20Product%20of%20Array%20Except%20Self.cpp)| Easy
+## Two pointer
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|15|[153Sum](https://leetcode.com/problems/3sum/) | [C++](solution/15.%203Sum.cpp)| Easy
