@@ -11,8 +11,8 @@ My leetcode practice record
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)(Need to be understood again) | [C++](solution/5.%20Longest%20Palindromic%20Substring.cpp)| Medium
-|52|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)(Need to be understood again) | [C++](solution/52.%20Maximum%20Product%20Subarray.cpp)| Medium
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](solution/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)| Easy
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)(Need to be understood again) | [C++](solution/152.%20Maximum%20Product%20Subarray.cpp)| Medium
 ## Stack
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
