@@ -4,12 +4,14 @@ My leetcode practice record
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](solution/1.%20Two%20Sum.cpp)| Easy
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](solution/49.%20Group%20Anagrams.cpp)| Medium
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](solution/217.%20Contains%20Duplicate.cpp)| Easy
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](solution/242.%20Valid%20Anagram.cpp)| Easy
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](solution/49.%20Group%20Anagrams.cpp)| Medium
 ## Dynamic Programming
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)(Need to be understood again) | [C++](solution/5.%20Longest%20Palindromic%20Substring.cpp)| Medium
+|52|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)(Need to be understood again) | [C++](solution/52.%20Maximum%20Product%20Subarray.cpp)| Medium
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](solution/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)| Easy
 ## Stack
 | # | Title | Solution | Difficulty |
@@ -36,4 +38,6 @@ My leetcode practice record
 |---| ----- | -------- | ---------- |
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](solution/605.%20Can%20Place%20Flowers.cpp)| Easy
 ## Linked List
-|206|[Reverse Linked List](https://leetcode.com/problems/can-place-flowers/) | [C++](solution/206.%20Reverse%20Linked%20List.cpp)| Easy
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|206|[Reverse Linked List](https://leetcode.com/problems/can-place-flowers/)(Recursive needs strengthening) | [C++](solution/206.%20Reverse%20Linked%20List.cpp)| Easy
