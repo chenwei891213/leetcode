@@ -36,8 +36,14 @@ My leetcode practice record
 ## Greedy
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](solution/611.%20Container%20With&20Most&20Water.cpp)| Medium
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](solution/605.%20Can%20Place%20Flowers.cpp)| Easy
 ## Linked List
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |206|[Reverse Linked List](https://leetcode.com/problems/can-place-flowers/)(Recursive needs strengthening) | [C++](solution/206.%20Reverse%20Linked%20List.cpp)| Easy
+## Math
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [C++](solution/2348.&20Number%20of%20Zero-Filled%20Subarrays.cpp)| Medium
+
