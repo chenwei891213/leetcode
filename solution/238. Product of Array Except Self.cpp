@@ -1,6 +1,6 @@
-//The first loop calculates the product of each position from the last position to the next position of that position.
+//The first loop calculates the product of each position i starting from the end and going backwards up i+1 position .
 //The results of the first loop are represent the product of the values following the position i. 
-//TTe second loop obtains the answer by taking the prefix product of each position using the result obtained from the first loop for that position.
+//The second loop obtains the answer by taking the prefix product of each position multplied by the result obtained from the first loop for that position.
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {

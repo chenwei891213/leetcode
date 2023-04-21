@@ -6,6 +6,7 @@ My leetcode practice record
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](solution/1.%20Two%20Sum.cpp)| Easy
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](solution/217.%20Contains%20Duplicate.cpp)| Easy
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](solution/242.%20Valid%20Anagram.cpp)| Easy
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](solution/49.%20Group%20Anagrams.cpp)| Medium
 ## Dynamic Programming
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
