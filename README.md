@@ -35,3 +35,5 @@ My leetcode practice record
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](solution/605.%20Can%20Place%20Flowers.cpp)| Easy
+## Linked List
+|206|[Reverse Linked List](https://leetcode.com/problems/can-place-flowers/) | [C++](solution/206.%20Reverse%20Linked%20List.cpp)| Easy
