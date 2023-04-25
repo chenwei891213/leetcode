@@ -46,4 +46,8 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |2348|[Number of Zero-Filled Subarrays](solution/2348.cpp) | Medium
+## Binary Search
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|33|[Search in Rotated Sorted Array](solution/33.cpp) | Medium
 
