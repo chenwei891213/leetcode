@@ -10,9 +10,9 @@ My leetcode practice record
 ## Dynamic Programming
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-|5|[Longest Palindromic Substring](solution/5.cpp)(Need to be understood again)| Medium
+|5|[Longest Palindromic Substring](solution/5.cpp)| Medium
 |121|[Best Time to Buy and Sell Stock](solution/121.cpp)| Easy
-|152|[Maximum Product Subarray](solution/152.cpp)(Need to be understood again)| Medium
+|152|[Maximum Product Subarray](solution/152.cpp)| Medium
 ## Stack
 | # | Title | Difficulty |
 |---| ----- | ---------- |
@@ -41,7 +41,8 @@ My leetcode practice record
 ## Linked List
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-|206|[Reverse Linked List](solution/206.cpp)(Recursive needs strengthening) | Easy
+|141|[Linked List Cycle](solution/141.cpp)| Easy
+|206|[Reverse Linked List](solution/206.cpp)| Easy
 ## Math
 | # | Title | Difficulty |
 |---| ----- | ---------- |
