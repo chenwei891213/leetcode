@@ -6,6 +6,7 @@ public:
         int right=nums.size()-1;
         while(left<=right){
             int mid=(left+right)/2;
+            //int mid= left + (right - left) / 2;
             if(nums[mid]==target)return mid;
             else if(nums[left]<=nums[mid]){
                 if(nums[left]<=target && target<nums[mid])right=mid-1;

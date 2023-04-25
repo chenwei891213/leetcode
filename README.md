@@ -51,4 +51,5 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |33|[Search in Rotated Sorted Array](solution/33.cpp) | Medium
+|153|[Find Minimum in Rotated Sorted Array](solution/153.cpp) | Medium
 
