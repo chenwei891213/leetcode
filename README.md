@@ -1,49 +1,49 @@
 # leetcode problem list
 My leetcode practice record 
 ## Hash table
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](solution/1.%20Two%20Sum.cpp)| Easy
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](solution/49.%20Group%20Anagrams.cpp)| Medium
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](solution/217.%20Contains%20Duplicate.cpp)| Easy
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](solution/242.%20Valid%20Anagram.cpp)| Easy
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|1|[Two Sum](solution/1.cpp) | Easy
+|49|[Group Anagrams](solution/49.cpp)| Medium
+|217|[Contains Duplicate](solution/217.cpp)| Easy
+|242|[Valid Anagram](solution/242.cpp)| Easy
 ## Dynamic Programming
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)(Need to be understood again) | [C++](solution/5.%20Longest%20Palindromic%20Substring.cpp)| Medium
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](solution/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)| Easy
-|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)(Need to be understood again) | [C++](solution/152.%20Maximum%20Product%20Subarray.cpp)| Medium
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|5|[Longest Palindromic Substring](solution/5.cpp)(Need to be understood again)| Medium
+|121|[Best Time to Buy and Sell Stock](solution/121.cpp)| Easy
+|152|[Maximum Product Subarray](solution/152.cpp)(Need to be understood again)| Medium
 ## Stack
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](solution/20.%20Valid%20Parentheses.cpp)| Easy
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|20|[Valid Parentheses](solution/20.cpp)| Easy
 ## Divide and Conquer
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)(Need to be understood again) | [C++](solution/53.%20Maximum%20Subarray.cpp)| Medium
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|53|[Maximum Subarray](solution/53.cpp)(Need to be understood again)| Medium
 ## Prefix sum
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](solution/238.%20Product%20of%20Array%20Except%20Self.cpp)| Medium
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|238|[Product of Array Except Self](solution/238.cpp)| Medium
 ## Two pointer
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|15|[3Sum](https://leetcode.com/problems/3sum/) | [C++](solution/15.%203Sum.cpp)| Medium
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|15|[3Sum] | [C++](solution/15.%203Sum.cpp)| Medium
 ## Sorting
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](solution/56.%20Merge%20Intervals.cpp)| Medium
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|56|[Merge Intervals](solution/56.cpp)| Medium
 ## Greedy
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](solution/11.%20Container%20With%20Most%20Water.cpp)| Medium
-|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](solution/605.%20Can%20Place%20Flowers.cpp)| Easy
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|11|[Container With Most Water](solution/11.cpp)| Medium
+|605|[Can Place Flowers](solution/605.cpp)| Easy
 ## Linked List
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|206|[Reverse Linked List](https://leetcode.com/problems/can-place-flowers/)(Recursive needs strengthening) | [C++](solution/206.%20Reverse%20Linked%20List.cpp)| Easy
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|206|[Reverse Linked List](solution/206.cpp)(Recursive needs strengthening) | Easy
 ## Math
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [C++](solution/2348.%20Number%20of%20Zero-Filled%20Subarrays.cpp)| Medium
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|2348|[Number of Zero-Filled Subarrays](solution/2348.cpp) | Medium
 
