@@ -28,7 +28,7 @@ My leetcode practice record
 ## Two pointer
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-|15|[3Sum] | [C++](solution/15.%203Sum.cpp)| Medium
+|15|[3Sum](solution/15.cpp)| Medium
 ## Sorting
 | # | Title | Difficulty |
 |---| ----- | ---------- |
