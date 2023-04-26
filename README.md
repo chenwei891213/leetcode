@@ -57,4 +57,7 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |3|[Longest Substring Without Repeating Characters](solution/3.cpp) | Medium
-
+## Heap (Priority Queue)
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|2611|[Mice and Cheese](solution/2611.cpp) | Medium
