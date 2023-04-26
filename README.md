@@ -53,5 +53,8 @@ My leetcode practice record
 |33|[Search in Rotated Sorted Array](solution/33.cpp) | Medium
 |34|[Find First and Last Position of Element in Sorted Array](solution/34.cpp) | Medium
 |153|[Find Minimum in Rotated Sorted Array](solution/153.cpp) | Medium
-
+## Sliding Window
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|3|[Longest Substring Without Repeating Characters](solution/3.cpp) | Medium
 
