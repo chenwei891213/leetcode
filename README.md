@@ -29,6 +29,7 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |15|[3Sum](solution/15.cpp)| Medium
+|344|[Reverse String](solution/344.cpp)| Easy
 ## Sorting
 | # | Title | Difficulty |
 |---| ----- | ---------- |
@@ -64,5 +65,9 @@ My leetcode practice record
 ## String 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-|2609|[Find the Longest Balanced Substring of a Binary String](solution/2609.cpp) | Medium
+|2609|[Find the Longest Balanced Substring of a Binary String](solution/2609.cpp) | Easy
+## Depth-First Search
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|200|[Number of Islands](solution/200.cpp) | Easy
 
