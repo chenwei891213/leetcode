@@ -61,3 +61,8 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |2611|[Mice and Cheese](solution/2611.cpp) | Medium
+## String 
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|2609|[Find the Longest Balanced Substring of a Binary String](solution/2609.cpp) | Medium
+
