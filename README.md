@@ -13,6 +13,7 @@ My leetcode practice record
 |5|[Longest Palindromic Substring](solution/5.cpp)| Medium
 |121|[Best Time to Buy and Sell Stock](solution/121.cpp)| Easy
 |152|[Maximum Product Subarray](solution/152.cpp)| Medium
+|647|[Palindromic Substrings](solution/647.cpp)| Medium
 ## Stack
 | # | Title | Difficulty |
 |---| ----- | ---------- |
