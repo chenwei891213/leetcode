@@ -48,6 +48,10 @@ My leetcode practice record
 |19|[Remove Nth Node From End of List](solution/19.cpp)| Medium
 |141|[Linked List Cycle](solution/141.cpp)| Easy
 |206|[Reverse Linked List](solution/206.cpp)| Easy
+## Binary Tree
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|226|[Invert Binary Tree](solution/226.cpp)| Easy
 ## Math
 | # | Title | Difficulty |
 |---| ----- | ---------- |
