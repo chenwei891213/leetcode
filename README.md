@@ -5,6 +5,7 @@ My leetcode practice record
 |---| ----- | ---------- |
 |1|[Two Sum](solution/1.cpp) | Easy
 |49|[Group Anagrams](solution/49.cpp)| Medium
+|128|[Longest Consecutive Sequence](solution/128.cpp)| Medium
 |217|[Contains Duplicate](solution/217.cpp)| Easy
 |242|[Valid Anagram](solution/242.cpp)| Easy
 ## Dynamic Programming
@@ -12,6 +13,7 @@ My leetcode practice record
 |---| ----- | ---------- |
 |5|[Longest Palindromic Substring](solution/5.cpp)| Medium
 |121|[Best Time to Buy and Sell Stock](solution/121.cpp)| Easy
+|139|[Word Break](solution/139.cpp)| Medium
 |152|[Maximum Product Subarray](solution/152.cpp)| Medium
 |647|[Palindromic Substrings](solution/647.cpp)| Medium
 ## Stack
@@ -80,4 +82,5 @@ My leetcode practice record
 |---| ----- | ---------- |
 |200|[Number of Islands](solution/200.cpp) | Medium
 |417|[Pacific Atlantic Water Flow](solution/417.cpp) | Medium
+
 
