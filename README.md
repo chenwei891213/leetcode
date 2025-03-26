@@ -83,5 +83,9 @@ My leetcode practice record
 |---| ----- | ---------- |
 |200|[Number of Islands](solution/200.cpp) | Medium
 |417|[Pacific Atlantic Water Flow](solution/417.cpp) | Medium
+## Bit Manipulation
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|268|[Missing Number](solution/268.cpp) | Easy
 
 
