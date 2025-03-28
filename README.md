@@ -50,6 +50,7 @@ My leetcode practice record
 |---| ----- | ---------- |
 |19|[Remove Nth Node From End of List](solution/19.cpp)| Medium
 |141|[Linked List Cycle](solution/141.cpp)| Easy
+|143|[Reorder List](solution/143.cpp) | Medium
 |206|[Reverse Linked List](solution/206.cpp)| Easy
 ## Binary Tree
 | # | Title | Difficulty |
@@ -70,6 +71,7 @@ My leetcode practice record
 |---| ----- | ---------- |
 |3|[Longest Substring Without Repeating Characters](solution/3.cpp) | Medium
 |76|[Minimum Window Substring](solution/76.cpp) | Hard
+|424|[Longest Repeating Character Replacement](solution/424.cpp) | Medium 
 ## Heap (Priority Queue)
 | # | Title | Difficulty |
 |---| ----- | ---------- |
@@ -83,5 +85,9 @@ My leetcode practice record
 |---| ----- | ---------- |
 |200|[Number of Islands](solution/200.cpp) | Medium
 |417|[Pacific Atlantic Water Flow](solution/417.cpp) | Medium
+## Bit Manipulation
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|268|[Missing Number](solution/268.cpp) | Easy
 
 
