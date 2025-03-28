@@ -15,6 +15,7 @@ My leetcode practice record
 |121|[Best Time to Buy and Sell Stock](solution/121.cpp)| Easy
 |139|[Word Break](solution/139.cpp)| Medium
 |152|[Maximum Product Subarray](solution/152.cpp)| Medium
+|300|[Longest Increasing Subsequence](solution/300.cpp)| Medium
 |647|[Palindromic Substrings](solution/647.cpp)| Medium
 ## Stack
 | # | Title | Difficulty |
