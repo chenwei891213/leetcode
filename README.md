@@ -16,6 +16,7 @@ My leetcode practice record
 |139|[Word Break](solution/139.cpp)| Medium
 |152|[Maximum Product Subarray](solution/152.cpp)| Medium
 |300|[Longest Increasing Subsequence](solution/300.cpp)| Medium
+|322|[Coin Change](solution/322.cpp) | Medium
 |647|[Palindromic Substrings](solution/647.cpp)| Medium
 ## Stack
 | # | Title | Difficulty |
@@ -90,6 +91,6 @@ My leetcode practice record
 |---| ----- | ---------- |
 |190| [Reverse Bits](solution/190.cpp) | Easy
 |191| [Number of 1 Bits](solution/191.cpp) | Easy
-|268|[Missing Number](solution/268.cpp) | Easy
+|268| [Missing Number](solution/268.cpp) | Easy
 
 
