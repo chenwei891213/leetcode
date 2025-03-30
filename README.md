@@ -19,6 +19,7 @@ My leetcode practice record
 |300|[Longest Increasing Subsequence](solution/300.cpp)| Medium
 |322|[Coin Change](solution/322.cpp) | Medium
 |647|[Palindromic Substrings](solution/647.cpp)| Medium
+|1143|[Longest Common Subsequence](solution/1143.cpp)| Medium
 ## Stack
 | # | Title | Difficulty |
 |---| ----- | ---------- |
