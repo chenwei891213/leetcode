@@ -12,9 +12,8 @@
 class Solution {
 public:
     int find(TreeNode* root, int &k){
-        int val = 0;
         if(!root) return -1;
-        if(root->left != NULL)val = find(root->left, k);
+        int val = find(root->left, k);
         if(k == 0)return val;
         if(--k == 0)return root->val;
         return find(root->right, k);
@@ -24,7 +23,6 @@ public:
         return find(root, k);
     }
 };
-
 class Solution {
     public:
     

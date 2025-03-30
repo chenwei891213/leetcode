@@ -12,6 +12,7 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |5|[Longest Palindromic Substring](solution/5.cpp)| Medium
+|62|[Unique Paths](solution/62.cpp)| Medium
 |121|[Best Time to Buy and Sell Stock](solution/121.cpp)| Easy
 |139|[Word Break](solution/139.cpp)| Medium
 |152|[Maximum Product Subarray](solution/152.cpp)| Medium
@@ -57,7 +58,7 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |226|[Invert Binary Tree](solution/226.cpp)| Easy
-|230|[Kth Smallest Element in a BST](solution/230.cpp)| Medium
+|230|[Kth Smallest Element in a BST](solution/230.cpp)(Need to be understood again)| Medium
 ## Math
 | # | Title | Difficulty |
 |---| ----- | ---------- |
