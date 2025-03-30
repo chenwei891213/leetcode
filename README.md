@@ -51,12 +51,13 @@ My leetcode practice record
 |---| ----- | ---------- |
 |19|[Remove Nth Node From End of List](solution/19.cpp)| Medium
 |141|[Linked List Cycle](solution/141.cpp)| Easy
-|143|[Reorder List](solution/143.cpp) | Medium
-|206|[Reverse Linked List](solution/206.cpp)| Easy
+|143|[Reorder List](solution/143.cpp)(Need to be understood again)	 | Medium
+|206|[Reverse Linked List](solution/206.cpp)(Need to be understood again)| Easy
 ## Binary Tree
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |226|[Invert Binary Tree](solution/226.cpp)| Easy
+|230|[Kth Smallest Element in a BST](solution/230.cpp)| Medium
 ## Math
 | # | Title | Difficulty |
 |---| ----- | ---------- |
