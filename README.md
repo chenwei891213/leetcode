@@ -52,8 +52,9 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |19|[Remove Nth Node From End of List](solution/19.cpp)| Medium
+|21|[Merge Two Sorted Lists](solution/21.cpp)(Need to be understood again)| Easy
 |141|[Linked List Cycle](solution/141.cpp)| Easy
-|143|[Reorder List](solution/143.cpp)(Need to be understood again)	 | Medium
+|143|[Reorder List](solution/143.cpp)(Need to be understood again)| Medium
 |206|[Reverse Linked List](solution/206.cpp)(Need to be understood again)| Easy
 ## Binary Tree
 | # | Title | Difficulty |
