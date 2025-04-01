@@ -106,6 +106,7 @@ My leetcode practice record
 ## Trie
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-[208] [Implement Trie (Prefix Tree)](solution/208.cpp)(Need to be understood again) | Medium
+|208| [Implement Trie (Prefix Tree)](solution/208.cpp)(Need to be understood again) | Medium
+
 
 
