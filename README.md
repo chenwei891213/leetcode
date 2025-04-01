@@ -102,6 +102,7 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |79| [Word Search](solution/79.cpp)(Need to be understood again) | Medium
+|212| [Word Search II](solution/212.cpp) | Medium
 ## Trie
 | # | Title | Difficulty |
 |---| ----- | ---------- |
