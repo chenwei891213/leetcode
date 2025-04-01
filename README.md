@@ -102,5 +102,9 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |79| [Word Search](solution/79.cpp)(Need to be understood again) | Medium
+## Trie
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+[208] [Implement Trie (Prefix Tree)](solution/208.cpp)(Need to be understood again) | Medium
 
 
