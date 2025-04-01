@@ -98,5 +98,9 @@ My leetcode practice record
 |191| [Number of 1 Bits](solution/191.cpp) | Easy
 |268| [Missing Number](solution/268.cpp) | Easy
 |388| [Counting Bits](solution/338.cpp) | Easy
+## Backtracking
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|79| [Word Search](solution/79.cpp)(Need to be understood again) | Medium
 
 
