@@ -60,6 +60,7 @@ My leetcode practice record
 ## Binary Tree
 | # | Title | Difficulty |
 |---| ----- | ---------- |
+|100|[Same Tree](solution/100.cpp)| Easy 
 |226|[Invert Binary Tree](solution/226.cpp)| Easy
 |230|[Kth Smallest Element in a BST](solution/230.cpp)(Need to be understood again)| Medium
 ## Math
