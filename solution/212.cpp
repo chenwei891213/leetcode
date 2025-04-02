@@ -63,5 +63,32 @@ class Solution {
             return ans;
         }
     };
+//simplified version
+class Solution {
+    public:
+        void find(int index, vector<int> element, vector<vector<int>> &ans, int n, int k){
+            if(element.size() == k){
+                ans.push_back(element);
+                return;
+            }
+            if(index > n || (n - index + 1) < k - element.size())return;
+            for(int i = index; i <=n ; ++i){
+                element.push_back(i);
+                find(i+1, element, ans, n, k);
+                element.pop_back();
+            }
+            return;
+        }
+        vector<vector<int>> combine(int n, int k) {
+    
+            vector<vector<int>> ans;
+            vector<int>element;
+    
+            find(1, element, ans, n, k);
+    
+            return ans;
+        }
+    };
+        
     
  
