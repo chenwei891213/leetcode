@@ -101,6 +101,7 @@ My leetcode practice record
 ## Backtracking
 | # | Title | Difficulty |
 |---| ----- | ---------- |
+|77| [Combinations](solution/77.cpp)(Need to be understood again) | Medium
 |79| [Word Search](solution/79.cpp)(Need to be understood again) | Medium
 |212| [Word Search II](solution/212.cpp) | Medium
 ## Trie
