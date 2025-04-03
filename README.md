@@ -1,5 +1,9 @@
 # leetcode problem list
 My leetcode practice record 
+## Useful Links
+- [Blind 75](https://leetcode.com/problem-list/oizxjoit/)
+- [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+- [Graph algorithms + problems to practice](https://leetcode.com/discuss/post/1326900/graph-algorithms-problems-to-practice-by-9u6j/)
 ## Hash table
 | # | Title | Difficulty |
 |---| ----- | ---------- |
@@ -61,6 +65,7 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |94|[Binary Tree Inorder Traversal](solution/94.cpp)| Easy
+|98|[Validate Binary Search Tree](solution/98.cpp)(Need to be understood recursion version)| Medium
 |100|[Same Tree](solution/100.cpp)| Easy 
 |102|[Binary Tree Level Order Traversal](solution/102.cpp)| Medium
 |226|[Invert Binary Tree](solution/226.cpp)| Easy
@@ -107,7 +112,7 @@ My leetcode practice record
 |46| [Permutations](solution/46.cpp) | Medium
 |77| [Combinations](solution/77.cpp)(Need to be understood again) | Medium
 |79| [Word Search](solution/79.cpp)(Need to be understood again) | Medium
-|212| [Word Search II](solution/212.cpp) | Medium
+|212| [Word Search II](solution/212.cpp) | Hard
 ## Trie
 | # | Title | Difficulty |
 |---| ----- | ---------- |
