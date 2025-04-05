@@ -120,6 +120,10 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |208| [Implement Trie (Prefix Tree)](solution/208.cpp)(Need to be understood again) | Medium
+## Simulation
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|54| [Spiral Matrix](solution/54.cpp)(Need to be understood again) | Medium
 
 
 
