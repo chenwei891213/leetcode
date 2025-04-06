@@ -74,6 +74,7 @@ My leetcode practice record
 |226|[Invert Binary Tree](solution/226.cpp)| Easy
 |230|[Kth Smallest Element in a BST](solution/230.cpp)(Need to be understood again)| Medium
 |235|[Lowest Common Ancestor of a Binary Search Tree](solution/235.cpp)| Medium
+|236|[Lowest Common Ancestor of a Binary Tree](solution/236.cpp)| Medium
 ## Math
 | # | Title | Difficulty |
 |---| ----- | ---------- |
