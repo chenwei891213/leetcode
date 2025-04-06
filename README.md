@@ -9,7 +9,7 @@ My leetcode practice record
 |---| ----- | ---------- |
 |1|[Two Sum](solution/1.cpp) | Easy
 |49|[Group Anagrams](solution/49.cpp)| Medium
-|73|[Set Matrix Zeroes](solution/73.cpp)| Medium
+|73|[Set Matrix Zeroes](solution/73.cpp)(Need to be understood O(1) space solution again)([Reference](https://www.cnblogs.com/grandyang/p/4341590.html))| Medium
 |128|[Longest Consecutive Sequence](solution/128.cpp)| Medium
 |217|[Contains Duplicate](solution/217.cpp)| Easy
 |242|[Valid Anagram](solution/242.cpp)| Easy
