@@ -57,3 +57,31 @@ class Solution {
             return res;
         }
     };
+
+class Solution {
+    public:
+        Node* copyRandomList(Node* head) {
+            if(!head) return NULL;
+            Node* node = head;
+            while(node){
+                Node* t = new Node(node -> val);
+                t -> next = node -> next;
+                node -> next = t;
+                node = t -> next;
+            }
+            node = head;
+            while(node){
+                if(node -> random) node -> next -> random = node -> random -> next;
+                node = node -> next -> next;
+            }
+            node = head;
+            Node* res = head -> next;
+            while(node){
+                Node* temp = node -> next;
+                if(node -> next) node -> next = node -> next -> next;
+                node = temp;
+            }
+            return res;
+    
+        }
+    };
