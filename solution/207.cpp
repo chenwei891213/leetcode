@@ -1,0 +1,61 @@
+//first try
+class Solution {
+    public:
+        bool dfs(unordered_map<int, vector<int>>& table, vector<bool>& visited, int course){
+            if(visited[course])return false;
+            else if(!table.count(course) || table[course].size() == 0)return true;
+            visited[course] = true;
+            for(int c : table[course]){
+                if(!dfs(table, visited, c))return false;
+                table[course].erase(
+                    std::remove(table[course].begin(), table[course].end(), c),
+                    table[course].end()
+                );
+                visited[c] = false;
+            }
+            visited[course] = false;
+            return true;
+        }
+  
+        bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+            unordered_map<int, vector<int>> table;
+            vector<bool> visited(numCourses, false);
+            for(auto t : prerequisites)table[t[0]].push_back(t[1]);
+    
+            for(int i = 0; i < numCourses; ++i){
+                if(!table.count(i))continue;
+                if(dfs(table, visited, i))continue;
+                else return false;
+            }
+            return true;
+        }
+    };
+    
+
+// revision
+class Solution {
+    public:
+        bool canFinishCourse(vector<vector<int>>& table, vector<int>& visited, int course){
+            if(visited[course] == -1) return false;
+            if(visited[course] == 1) return true;
+            visited[course] = -1;
+            for(auto a : table[course]){
+                if(!canFinishCourse(table, visited, a)) return false;
+            }
+            visited[course] = 1;
+            return true;
+        }
+    
+        bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+            
+            vector<vector<int>> table(numCourses, vector<int>());
+            vector<int> visited(numCourses, 0);
+            for(auto t : prerequisites)table[t[0]].push_back(t[1]);
+    
+            for(int i = 0; i < numCourses; ++i){
+                if(!canFinishCourse(table, visited, i)) return false;
+            }
+            return true;
+        }
+    };
+    
