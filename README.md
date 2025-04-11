@@ -134,6 +134,9 @@ My leetcode practice record
 |---| ----- | ---------- |
 |133| [Clone Graph](solution/133.cpp) | Medium
 |207| [Course Schedule](solution/207.cpp) | Medium
-
+## Array
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|57| [Insert Interval](solution/57.cpp)(Need to be understood again) | Medium
 
 
