@@ -101,6 +101,7 @@ My leetcode practice record
 ## String 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
+|58|[Length of Last Word](solution/58.cpp) | Easy
 |2609|[Find the Longest Balanced Substring of a Binary String](solution/2609.cpp) | Easy
 ## Depth-First Search
 | # | Title | Difficulty |

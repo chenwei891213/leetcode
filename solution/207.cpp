@@ -66,22 +66,22 @@ class Solution {
     public:
         bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
             vector<vector<int>> graph(numCourses, vector<int>());
-            vector<int> outDegree(numCourses, 0);
+            vector<int> inDegree(numCourses, 0);
             queue<int> list;
             for(auto prerequisite : prerequisites){
                 graph[prerequisite[0]].push_back(prerequisite[1]);
-                outDegree[prerequisite[1]]++;
+                inDegree[prerequisite[1]]++;
             }
-            for(int i = 0; i < outDegree.size(); ++i){
-                if(outDegree[i] == 0) list.push(i);
+            for(int i = 0; i < inDegree.size(); ++i){
+                if(inDegree[i] == 0) list.push(i);
             }
             int finishCourses = 0;
             while(!list.empty()){
                 int p = list.front(); list.pop();
                 finishCourses ++;
                 for(int neighbor : graph[p]){
-                    outDegree[neighbor] --;
-                    if(outDegree[neighbor] == 0) list.push(neighbor);
+                    inDegree[neighbor] --;
+                    if(inDegree[neighbor] == 0) list.push(neighbor);
                 }
             }
             return finishCourses == numCourses;
