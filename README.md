@@ -19,6 +19,7 @@ My leetcode practice record
 |5|[Longest Palindromic Substring](solution/5.cpp)| Medium
 |55|[Jump Game](solution/55.cpp)| Medium
 |62|[Unique Paths](solution/62.cpp)| Medium
+|91|[Decode Ways](solution/91.cpp) | Medium
 |121|[Best Time to Buy and Sell Stock](solution/121.cpp)| Easy
 |139|[Word Break](solution/139.cpp)| Medium
 |152|[Maximum Product Subarray](solution/152.cpp)| Medium
