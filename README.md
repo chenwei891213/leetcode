@@ -113,6 +113,7 @@ My leetcode practice record
 |190| [Reverse Bits](solution/190.cpp) | Easy
 |191| [Number of 1 Bits](solution/191.cpp) | Easy
 |268| [Missing Number](solution/268.cpp) | Easy
+|371| [Sum of Two Integers](solution/371.cpp) | Medium
 |388| [Counting Bits](solution/338.cpp) | Easy
 ## Backtracking
 | # | Title | Difficulty |
