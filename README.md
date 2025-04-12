@@ -133,6 +133,7 @@ My leetcode practice record
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |208| [Implement Trie (Prefix Tree)](solution/208.cpp)(Need to be understood again) | Medium
+|211| [Design Add and Search Words Data Structure](solution/211.cpp)(Need to be understood again) | Medium
 ## Simulation
 | # | Title | Difficulty |
 |---| ----- | ---------- |
