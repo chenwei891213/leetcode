@@ -81,6 +81,7 @@ My leetcode practice record
 ## Math
 | # | Title | Difficulty |
 |---| ----- | ---------- |
+|48|[Rotate Image](solution/48.cpp) | Medium
 |2348|[Number of Zero-Filled Subarrays](solution/2348.cpp) | Medium
 ## Binary Search
 | # | Title | Difficulty |
