@@ -47,6 +47,7 @@ My leetcode practice record
 |15|[3Sum](solution/15.cpp)| Medium
 |26|[Remove Duplicates from Sorted Array](solution/26.cpp)| Easy
 |125|[Valid Palindrome](solution/125.cpp)| Easy
+|202|[Happy Number](solution/202.cpp)| Easy
 |344|[Reverse String](solution/344.cpp)| Easy
 |392|[Is Subsequence](solution/392.cpp)(Not solve follow up)| Easy
 ## Sorting
