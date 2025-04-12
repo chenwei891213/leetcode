@@ -48,6 +48,7 @@ My leetcode practice record
 |26|[Remove Duplicates from Sorted Array](solution/26.cpp)| Easy
 |125|[Valid Palindrome](solution/125.cpp)| Easy
 |344|[Reverse String](solution/344.cpp)| Easy
+|392|[Is Subsequence](solution/392.cpp)(Not solve follow up)| Easy
 ## Sorting
 | # | Title | Difficulty |
 |---| ----- | ---------- |
@@ -104,7 +105,7 @@ My leetcode practice record
 |---| ----- | ---------- |
 |14|[Longest Common Prefix](solution/14.cpp) | Easy
 |58|[Length of Last Word](solution/58.cpp) | Easy
-|88|[Merge Sorted Array](solution/88.cpp) | Easy
+|88|[Merge Sorted Array](solution/88.cpp)(Need to be understood again) | Easy
 |2609|[Find the Longest Balanced Substring of a Binary String](solution/2609.cpp) | Easy
 ## Depth-First Search
 | # | Title | Difficulty |
