@@ -106,7 +106,7 @@ My leetcode practice record
 |---| ----- | ---------- |
 |14|[Longest Common Prefix](solution/14.cpp) | Easy
 |58|[Length of Last Word](solution/58.cpp) | Easy
-|88|[Merge Sorted Array](solution/88.cpp)(Need to be understood again) | Easy
+|151|[Reverse Words in a String](solution/151.cpp)(Need to be understood in-place solution again) | Medium
 |2609|[Find the Longest Balanced Substring of a Binary String](solution/2609.cpp) | Easy
 ## Depth-First Search
 | # | Title | Difficulty |
