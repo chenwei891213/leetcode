@@ -76,6 +76,7 @@ My leetcode practice record
 |98|[Validate Binary Search Tree](solution/98.cpp)(Need to be understood recursion version)| Medium
 |100|[Same Tree](solution/100.cpp)| Easy 
 |102|[Binary Tree Level Order Traversal](solution/102.cpp)| Medium
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](solution/105.cpp)(Need to be understood again!!!)| Medium
 |226|[Invert Binary Tree](solution/226.cpp)| Easy
 |230|[Kth Smallest Element in a BST](solution/230.cpp)(Need to be understood again)| Medium
 |235|[Lowest Common Ancestor of a Binary Search Tree](solution/235.cpp)| Medium
