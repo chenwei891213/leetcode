@@ -63,6 +63,7 @@ My leetcode practice record
 ## Linked List
 | # | Title | Difficulty |
 |---| ----- | ---------- |
+|2|[Add Two Numbers](solution/2.cpp)(Need to be understood again)| Medium
 |19|[Remove Nth Node From End of List](solution/19.cpp)| Medium
 |21|[Merge Two Sorted Lists](solution/21.cpp)(Need to be understood again)| Easy
 |138|[Copy List with Random Pointer](solution/138.cpp)(Need to be understood again)| Medium
