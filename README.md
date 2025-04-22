@@ -66,6 +66,7 @@ My leetcode practice record
 |2|[Add Two Numbers](solution/2.cpp)(Need to be understood again)| Medium
 |19|[Remove Nth Node From End of List](solution/19.cpp)| Medium
 |21|[Merge Two Sorted Lists](solution/21.cpp)(Need to be understood again)| Easy
+|23|[Merge k Sorted Lists](solution/23.cpp)(Need to be understood advance version solution)| Hard
 |138|[Copy List with Random Pointer](solution/138.cpp)(Need to be understood again)| Medium
 |141|[Linked List Cycle](solution/141.cpp)| Easy
 |143|[Reorder List](solution/143.cpp)(Need to be understood again)| Medium
