@@ -122,6 +122,7 @@ My leetcode practice record
 ## Bit Manipulation
 | # | Title | Difficulty |
 |---| ----- | ---------- |
+|136| [Single Number](solution/136.cpp) | Easy
 |190| [Reverse Bits](solution/190.cpp) | Easy
 |191| [Number of 1 Bits](solution/191.cpp) | Easy
 |268| [Missing Number](solution/268.cpp) | Easy
