@@ -102,6 +102,7 @@ My leetcode practice record
 |---| ----- | ---------- |
 |3|[Longest Substring Without Repeating Characters](solution/3.cpp) | Medium
 |76|[Minimum Window Substring](solution/76.cpp) | Hard
+|209|[Minimum Size Subarray Sum](solution/209.cpp)(Need to be understood binary search solution again.)| Medium
 |424|[Longest Repeating Character Replacement](solution/424.cpp) | Medium 
 ## Heap (Priority Queue)
 | # | Title | Difficulty |
