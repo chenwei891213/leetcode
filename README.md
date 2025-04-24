@@ -11,6 +11,7 @@ My leetcode practice record
 |49|[Group Anagrams](solution/49.cpp)| Medium
 |73|[Set Matrix Zeroes](solution/73.cpp)(Need to be understood O(1) space solution again)([Reference](https://www.cnblogs.com/grandyang/p/4341590.html))| Medium
 |128|[Longest Consecutive Sequence](solution/128.cpp)| Medium
+|205|[Isomorphic Strings](solution/205.cpp)(Need to be understood again)| Easy
 |217|[Contains Duplicate](solution/217.cpp)| Easy
 |242|[Valid Anagram](solution/242.cpp)| Easy
 ## Dynamic Programming
