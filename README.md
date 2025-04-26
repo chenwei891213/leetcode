@@ -21,6 +21,7 @@ My leetcode practice record
 |55|[Jump Game](solution/55.cpp)| Medium
 |62|[Unique Paths](solution/62.cpp)| Medium
 |64|[Minimum Path Sum](solution/64.cpp)| Medium
+|72|[Edit Distance](solution/72.cpp)| Medium
 |91|[Decode Ways](solution/91.cpp) | Medium
 |121|[Best Time to Buy and Sell Stock](solution/121.cpp)| Easy
 |139|[Word Break](solution/139.cpp)| Medium
