@@ -141,10 +141,11 @@ My leetcode practice record
 
 ## Heap (Priority Queue)
 
-| #    | Title                                                                                            | Difficulty |
-| ---- | ------------------------------------------------------------------------------------------------ | ---------- |
-| 295  | [Find Median from Data Stream](solution/295.cpp)(Need to be understood again. Very important!!!) | Hard       |
-| 2611 | [Mice and Cheese](solution/2611.cpp)                                                             | Medium     |
+| #    | Title                                                                                               | Difficulty |
+| ---- | --------------------------------------------------------------------------------------------------- | ---------- |
+| 295  | [Find Median from Data Stream](solution/295.cpp)(Need to be understood again. Very important!!!)    | Hard       |
+| 373  | [Find K Pairs with Smallest Sums](solution/373.cpp)(Need to be understood again. Very important!!!) | Medium     |
+| 2611 | [Mice and Cheese](solution/2611.cpp)                                                                | Medium     |
 
 ## String
 
